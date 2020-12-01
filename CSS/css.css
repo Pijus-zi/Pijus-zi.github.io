@@ -1,0 +1,39 @@
+
+/* CSS Document */
+table, th, td {
+  border: 1px solid black;
+}
+body
+{
+  background-color: lightblue;
+}
+img {
+  max-width: 200px;
+  height: auto;
+}
+
+.serif {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.sansserif {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.monospace {
+  font-family: "Lucida Console", Courier, monospace;
+}
+
+            .myDiv {
+              border: 5px outset #544FCD;
+              background-color: mediumorchid;
+              padding:2px ;
+              Width: 12% ; 
+              margin-right: 10px;
+              Float leftblue
+			  ;    
+              text-align: start;
+            }
+            <meta charset="utf-8">
+
+           
