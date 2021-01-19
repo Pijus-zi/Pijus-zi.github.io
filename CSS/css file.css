@@ -1,0 +1,62 @@
+@charset "utf-8"; 
+/* CSS Document */
+
+        body{
+
+                background-size: cover;
+                color:black;
+            }
+            .mydiv{
+                border: 5px outset black;
+              background-color:gray ;
+              padding:20px ; 
+              margin-right: 10px;
+              text-align: start;
+            }
+            h1{
+                border: 5px outset black;
+              background-color:gray ;
+              padding:20px ; 
+              margin-right: 10px;
+              text-align: start;
+            }
+      h3{
+        border:5px outset black;
+        background-color: gray;
+        padding: 20px ;
+        margin-right: 10px;
+        text-align: start;
+      }
+      footer{
+        background-color: gray;
+        border: 5px outset black;
+        color:black;
+        height: 100px;
+        width: 100%;
+        text-align: center;
+        padding-top: 20px;
+      }
+      a{
+        color: black;
+      }
+      .grid-container{
+        display: grid;
+        grid-template-columns: auto auto
+;
+      }
+      .topnav{
+        background-color: grey;
+      }
+      /* Style the links inside the navigation bar */
+      .topnav a {
+        color: black;
+        text-align: center;
+        padding: 20px 22px;
+        text-decoration: none;
+        font-size: 22px;
+      }
+      .topnav a:hover {
+    background-color: gray;
+    color: black;
+  }
+

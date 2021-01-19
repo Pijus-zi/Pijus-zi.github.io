@@ -1,6 +1,6 @@
 #bilde1{
     height:450px;
-    width:1000px;
+    
     box-shadow:50px 20px 50px;
     margin-left: 50px;
     margin-bottom: 30px;
@@ -8,35 +8,7 @@
 
 #bilde2{
     height: 450px;
-    width:1000px;
-    box-shadow:50px 20px 50px;
-    margin-left: 50px;
-    margin-bottom: 30px;
-}
-#bilde3{
-    height: 450px;
-    width:1000px;
-    box-shadow:50px 20px 50px;
-    margin-left: 50px;
-    margin-bottom: 30px;
-}
-#bilde4{
-    height:450px;
-    width:1000px;
-    box-shadow:50px 20px 50px;
-    margin-left: 50px;
-    margin-bottom: 30px;
-}
-#bilde5{
-    height:450px;
-    width:1000px;
-    box-shadow:50px 20px 50px;
-    margin-left: 50px;
-    margin-bottom: 30px;
-}
-#bilde6{
-    height:450px;
-    width:1000px;
+    
     box-shadow:50px 20px 50px;
     margin-left: 50px;
     margin-bottom: 30px;
