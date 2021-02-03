@@ -38,7 +38,7 @@ background-image: url(../images/9dbcd4_solid_color_background_icolorpalette.png)
                                       padding-top: 20px;
                                     }
       a{
-        color: black;
+        color: rgb(255, 255, 255);
       }
       .grid-container{
         display: grid;
